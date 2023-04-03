@@ -1,0 +1,2 @@
+from Perpustakaan import*
+menu()

@@ -1,0 +1,3 @@
+Andre,Garis Waktu,24-11-2021
+Dinda,Arah Langkah,20-11-2021
+Irfan,Detektif Conan,27-11-2021
